@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Mobile Device Keyboard  Autocomplete #
+# Mobile Device Keyboard Autocomplete #
 # Developed for Asymmetrik's Programming Challenge #
 # Thomas Marsh May 18th, 2017 #
 
